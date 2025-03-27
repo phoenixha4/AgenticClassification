@@ -1,5 +1,5 @@
 # AgenticClassification
-Demonstrates the power of LangGraph by building a multi-step text analysis pipeline.
+Demonstrates the power of LangGraph by building a multi-step text analysis pipeline. This pipeline showcases how LangGraph can be used to create a modular, extensible workflow for natural language processing tasks.
 
 
 ## Overview
